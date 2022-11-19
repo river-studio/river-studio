@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.500111ca.css",
+    "main.css": "/static/css/main.814b212d.css",
     "main.js": "/static/js/main.e4f14487.js",
+    "static/media/PeydaWeb-Regular.woff": "/static/media/PeydaWeb-Regular.e1f298caefd1d1727ef6.woff",
+    "static/media/PeydaWeb-Medium.woff": "/static/media/PeydaWeb-Medium.45475ea02e8c6329cf81.woff",
+    "static/media/PeydaWeb-Bold.woff": "/static/media/PeydaWeb-Bold.468454e6fb70673595c3.woff",
+    "static/media/PeydaWeb-Medium.woff2": "/static/media/PeydaWeb-Medium.b90056847362cc189a1b.woff2",
+    "static/media/PeydaWeb-Regular.woff2": "/static/media/PeydaWeb-Regular.84fe896ff0a7be4185fe.woff2",
+    "static/media/PeydaWeb-Bold.woff2": "/static/media/PeydaWeb-Bold.0056dfbde27362ab6368.woff2",
     "index.html": "/index.html",
-    "main.500111ca.css.map": "/static/css/main.500111ca.css.map",
+    "main.814b212d.css.map": "/static/css/main.814b212d.css.map",
     "main.e4f14487.js.map": "/static/js/main.e4f14487.js.map"
   },
   "entrypoints": [
-    "static/css/main.500111ca.css",
+    "static/css/main.814b212d.css",
     "static/js/main.e4f14487.js"
   ]
 }
